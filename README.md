@@ -29,6 +29,17 @@ Ensure that you have [Blueprint](https://blueprint.zip) already installed on you
 
 ---
 
+## 📷 Pictures
+<p align="center">
+  <img src="public/CrimsonPanel.png" width="400">
+  <img src="public/CrimsonFolder.png" width="400">
+  <img src="public/CrimsonSettings.png" width="400">
+  <img src="public/CrimsonAdminSettings.png" width="400">
+</p>
+
+
+---
+
 ## ⚙️ Configuration
 
 Crimson Abyss is ready to use out-of-the-box. Technical details can be found in `conf.yml`:
